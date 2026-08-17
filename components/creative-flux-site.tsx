@@ -43,7 +43,7 @@ export function CreativeFluxSite() {
         <div className="relative grid w-full items-center gap-12 lg:grid-cols-[1.1fr_0.9fr]">
           <div className="animate-hero-copy">
             <p className="mb-8 flex items-center gap-3 font-mono text-xs uppercase tracking-[0.28em] text-accent"><span className="size-2 animate-pulse rounded-full bg-accent" /> 2024 yildan beri raqamli kelajak</p>
-            <h1 className="max-w-4xl text-balance text-6xl font-semibold leading-[0.95] tracking-[-0.06em] sm:text-7xl lg:text-[7.5rem]">Creative<br /><span className="text-muted-foreground">FLUX.</span></h1>
+            <h1 className="max-w-4xl text-balance text-6xl font-semibold leading-[0.95] tracking-[-0.06em] sm:text-7xl lg:text-[7.5rem]">Creative<br /><span className="text-muted-foreground">Flux.</span></h1>
             <p className="mt-10 max-w-xl text-pretty text-lg leading-8 text-muted-foreground">Creative Flux — murakkab g‘oyalarni sodda, tezkor va ta’sirli dasturiy mahsulotlarga aylantiradigan mustaqil texnologiya kompaniyasi.</p>
             <div className="mt-10 flex flex-wrap items-center gap-4"><a href="#services" className="flex items-center gap-3 rounded-full bg-primary px-6 py-3 text-sm font-medium text-primary-foreground transition-transform hover:-translate-y-0.5">Nimalar qilamiz <ArrowUpRight className="size-4" /></a><a href="#about" className="flex items-center gap-2 px-2 py-3 text-sm text-muted-foreground hover:text-foreground">Bizni tanishing <ChevronDown className="size-4" /></a></div>
           </div>
